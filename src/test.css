@@ -17,7 +17,7 @@ textarea{resize: none;}
 body {
    font-family: sans-serif;
    background-color: var(--color-secondary-100);
- }
+       }
  
  body,
  * {
